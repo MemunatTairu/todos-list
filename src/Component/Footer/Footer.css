@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+tr>th{
+    padding:2rem;
+}
+.previous{
+    display: flex;
+    align-items: center;
+}
+.next{
+        display: flex;
+        align-items: center;
+    }
+   
