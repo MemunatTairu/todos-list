@@ -1,12 +1,13 @@
 
 import './App.css'
-import Todo from '../Component/Todo'
+import Home from './Page/home'
+
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div>
-      <Todo/>
+      <Home/>
+    
     </div>
       
   )

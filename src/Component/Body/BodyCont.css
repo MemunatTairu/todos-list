@@ -1,0 +1,53 @@
+.headerCont{
+    display: flex;
+    justify-content: space-between;
+}
+.dateButtons {
+    display: flex;
+    gap:2rem;
+}
+.dateHeader{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.dateRight{
+    border: 1px solid white;
+    padding: 10px;
+    height: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.dInput{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dateButtons>p{
+    margin: 0px 0px;
+}
+.comp1{
+display: flex;
+justify-content: space-between;
+background-color: rgb(241, 241, 241);
+margin: 1rem 0;
+}
+label>p{
+    margin: 0 1rem;
+}
+.btn{
+    border-radius: 4px;
+    background-color: white;
+}
+table{
+    border: 2px solid red;
+    margin-top: 10px;
+   
+}
+.btn2{
+    border: none;
+    background-color: white;
+}
+.comp2{
+    color: rgb(224, 218, 218);
+}

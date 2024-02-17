@@ -1,0 +1,12 @@
+.header{
+   
+    display: flex;
+    justify-content: space-between;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.headerElement{
+    display: flex;
+    align-items: center;
+    gap:1rem;
+
+}
