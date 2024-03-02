@@ -1,6 +1,8 @@
 import React from "react";
 import "./Header.css";
 import profilePicture from "../../asset/picture.png";
+// import React {useState} "react"
+
 const Header = () => {
   return (
     <div className="header">

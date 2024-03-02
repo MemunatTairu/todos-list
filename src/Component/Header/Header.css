@@ -2,7 +2,10 @@
    
     display: flex;
     justify-content: space-between;
-    font-family:Arial, Helvetica, sans-serif;
+    width: 1340px;
+    padding: 0px 32px;
+    
+   
 }
 .headerElement{
     display: flex;

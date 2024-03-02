@@ -1,6 +1,7 @@
  .cont{
-  margin: 16px 48px;
+  margin: 4px 48px;
 }
 *{
   box-sizing: border-box;
+  font-family:Arial, Helvetica, sans-serif;
 }

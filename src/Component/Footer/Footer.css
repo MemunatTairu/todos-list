@@ -1,6 +1,7 @@
 .footer{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 tr>th{
     padding:2rem;
@@ -8,9 +9,12 @@ tr>th{
 .previous{
     display: flex;
     align-items: center;
+    gap: 1rem;
+   
 }
 .next{
-        display: flex;
-        align-items: center;
+    display: flex;
+    align-items: center;
+    gap: 1rem;       
     }
-   
+ 
